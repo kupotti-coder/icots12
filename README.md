@@ -4,3 +4,4 @@
 
 - `ICOTS12_S01_teaching-statistical-literacy-in-the-light-of-AI.md` — Teaching Statistical Literacy in the Light of AI (2026-07-14)
 - `ICOTS12_S02_modelling-genes-statistics-probability-and-data-analysis.md` — Modelling Genes: Statistics, Probability, and Data Analysis in the Sciences (2026-07-14, Keynote: Sir Peter Donnelly)
+- `ICOTS12_S03_ssa-panel-assessment-redesign-and-institutional-support-in-ai-enabled-teaching.md` — SSA Panel: Assessment Redesign and Institutional Support in AI-enabled Teaching (2026-07-14)
