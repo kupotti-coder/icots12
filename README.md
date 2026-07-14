@@ -6,4 +6,5 @@
 - `ICOTS12_S02_modelling-genes-statistics-probability-and-data-analysis.md` — Modelling Genes: Statistics, Probability, and Data Analysis in the Sciences (2026-07-14, Keynote: Sir Peter Donnelly)
 - `ICOTS12_S03_ssa-panel-assessment-redesign-and-institutional-support-in-ai-enabled-teaching.md` — SSA Panel: Assessment Redesign and Institutional Support in AI-enabled Teaching (2026-07-14)
 - `ICOTS12_S04_data-visualisation.md` — Data Visualisation (2026-07-14, incl. ggplot battles)
+- `ICOTS12_S05_data-first.md` — Data First (2026-07-14, Main Topic 5)
 - `ggplot_battles_guide.md` — ggplot battles 入門ガイド & ゼミ演習プラン(S04関連の参考資料)
