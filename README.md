@@ -8,4 +8,5 @@
 - `ICOTS12_S04_data-visualisation.md` — Data Visualisation (2026-07-14, incl. ggplot battles)
 - `ICOTS12_S05_data-first.md` — Data First (2026-07-14, Main Topic 5)
 - `ICOTS12_S06_pedagogical-use-of-ai-to-support-educators-with-assessment.md` — Pedagogical Use of AI to Support Educators With Assessment (2026-07-15, Day 2)
+- `ICOTS12_S07_impact-of-genai-llms-on-teaching-statistical-computing.md` — Impact of GenAI/LLMs on Teaching Statistical Computing/Programming (2026-07-16, Day 3)
 - `ggplot_battles_guide.md` — ggplot battles 入門ガイド & ゼミ演習プラン(S04関連の参考資料)
