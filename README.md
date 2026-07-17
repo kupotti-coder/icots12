@@ -15,4 +15,5 @@
 - `ICOTS12_S11_data-literacy-and-data-science-education.md` — Data Literacy & Data Science Education (2026-07-16, Day 3, Main Topic 10)
 - `ICOTS12_S12_software-resources-for-statistical-education.md` — Software Resources for Statistical Education (2026-07-17, Day 4, Main Topic 8)
 - `ICOTS12_S12_towards-a-richer-statistical-thinking.md` — background notes on Dianne Cook keynote (prepared in advance; supplementary to the S13 article)
+- `ICOTS12_S13_visualisation-as-inference-cook-keynote.md` — Towards a Richer Statistical Thinking: Teaching Visualisation as a Tool for Inference (2026-07-17, Day 4, Keynote: Dianne Cook)
 - `ggplot_battles_guide.md` — ggplot battles 入門ガイド & ゼミ演習プラン(S04関連の参考資料)
